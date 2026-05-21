@@ -126,5 +126,5 @@ The dashboards were designed to convert raw restaurant data into actionable busi
 
 ---
 
-# Author
-Nikhil Chinkate
+# Source
+“Inspired by a dataset from online resources, I performed my own analysis and built this dashboard.”
